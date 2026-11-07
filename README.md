@@ -1,1 +1,1 @@
-# MediSync-AI-project
+# MediSync-AI
